@@ -4,6 +4,8 @@ ViewerY is a lightweight terminal system information tool for Linux.
 
 It displays basic hardware and system information in a clean ASCII layout.
 
+And this project is open source.
+
 Features
 
 - CPU information
