@@ -14,3 +14,7 @@ Features
 - Clean terminal layout
 - Lightweight and fast
 - and system info
+- workes with ANY distro
+
+
+!RUN THIS WITH   "python viewery.py" AND MAKE SURE YOU HAVE PYTHON INSTALLED!
