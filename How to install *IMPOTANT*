@@ -6,12 +6,13 @@ you will need git installed heres how "sudo pacman -S git"
 How to use
 
 Clone the repository:
-
+*this is the command to use it only in cd ViewerY*
 git clone https://github.com/AlMonDdevV/ViewerY.git
 and then do cd ViewerY
 then python viewery.py
 OR 
 cd ViewerY
+*this is the command to use it out side cd ViewerY*
 then chmod +x viewery.py
 then sudo cp viewery.py /usr/local/bin/viewery
 sudo chmod +x /usr/local/bin/viewery
